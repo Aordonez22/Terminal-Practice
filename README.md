@@ -29,7 +29,7 @@ Command Line Practice Exercises -
 In the file tree to the left, are a list of directories (folders) and files. 
 Use only Terminal commands and command statements to do the following:
 *AGAIN IGNORE THE ""*
-1 - Use the "pwd" command to make sure you're in the "workspace" directory.
+1 - Use the "pwd" command to make sure you're in the "Terminal-Practice" directory.
 2 - Use the "ls" command to see all the files and directories 
 3 - Use "rm -r removeMe.txt" command statement to remove the removeMe.txt file
 4 - Use "rm -r removeThisFolder" command statement to remove the removeThisFolder directory
