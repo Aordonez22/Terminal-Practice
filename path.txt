@@ -1,0 +1,5 @@
+1-/home/ubuntu/workspace/Terminal-Practice/findthex
+2-/workspace/Terminal-Practice/findthex/path1 
+3-/workspace/Terminal-Practice/findthex/path2/mysterybox
+4-/workspace/Terminal-Practice/findthex/path4/arctic 
+5-/workspace/Terminal-Practice/findthex/path4/volcano

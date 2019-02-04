@@ -50,7 +50,7 @@ X marks the spot - Locate the findthex directory to your left again.
 3 - Using cd (change directory) or cd .. (go back a previous directory) navigate through until you've found ALL 5 x.txt files. 
 4 - Use the ls command to see which files are in the directory. 
 5 - When you have found one, use pwd to print the file path of the where the x.txt file resides. 
-6 - Then copy and paste the file path into the path.tx file. 
+6 - Then copy and paste the file path into the path.txt file. 
 
 
 Stretch Activities:  
